@@ -9,7 +9,7 @@ Unfortunatelly, since it is a project still used to evaluate students, I could n
 Instead, I am sharing the game video.  
 Once I can post the complete code, I'll update the repo ^^
 
-![caterpie-catcher]()
+![caterpie-catcher](https://github.com/rebecapastl/caterpie-catcher/blob/master/caterpie-catcher.gif)
 
 ## Prerequisites
 Currently to run the game you will need to have the following programs installed:
